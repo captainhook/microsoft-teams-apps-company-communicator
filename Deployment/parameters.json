@@ -142,5 +142,8 @@
   "termsOfUseUrl": {
     "Value": "<<value>>",
     "Description": "The https:// URL to the company's terms of use."
-  }
+  },
+  "botAppDomain": {
+	  "Value": "companycommunicator.contoso.com",
+	  "Description": "If customDomainOption is set to 'Custom domain name (recommended)', this value will be used for the custom domain."
 }
